@@ -47,7 +47,7 @@ const errorLabel = 'GAS-Error';
  * The email address of whom should receive the error.
  * @private {string}
  */
-const emailToReport = 'matz.steven@gmail.com';
+const emailToReport = 'any@email.com';
 
 
 /*
